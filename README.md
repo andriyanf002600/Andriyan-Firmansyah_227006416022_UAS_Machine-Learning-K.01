@@ -28,7 +28,7 @@ Jelaskan asal, format, dan isi dataset.
 
 ## 📂 Dataset
 - **Nama File:** online_retail_II.xlsx
-- **Sumber:** [Kaggle - Online Retail II Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+- **Sumber:** https://archive.ics.uci.edu/dataset/502/online+retail+ii
 - **Deskripsi:** Berisi data transaksi retail online antara tahun 2009–2011.
 - **Kolom Penting:**
   - Invoice: Nomor transaksi
