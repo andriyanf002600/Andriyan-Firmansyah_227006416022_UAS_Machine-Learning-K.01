@@ -2,7 +2,7 @@
 Online Retail II — End-to-End Analysis (EDA, RFM, Segmentation, Association Rules, Cohort)
 1. Judul Proyek
 
-Gunakan judul yang jelas dan menggambarkan isi repo.
+Online Retail II — End-to-End Analysis (EDA, RFM, Segmentation, Association Rules, Cohort)
 
 # Analisis Market Basket Dataset Online Retail II
 
