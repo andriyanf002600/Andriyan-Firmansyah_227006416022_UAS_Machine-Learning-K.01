@@ -15,16 +15,12 @@ Hasil analisis ini dapat digunakan untuk menemukan pola pembelian konsumen dan r
 
 3. Tujuan Analisis
 
-Tulis tujuan utama yang ingin dicapai.
-
 ## 🎯 Tujuan
 - Mengidentifikasi item yang sering dibeli bersamaan.
 - Menemukan aturan asosiasi (association rules) yang bermanfaat.
 - Memberikan wawasan untuk strategi promosi atau bundling produk.
 
 4. Dataset
-
-Jelaskan asal, format, dan isi dataset.
 
 ## 📂 Dataset
 - **Nama File:** online_retail_II.xlsx
@@ -39,8 +35,6 @@ Jelaskan asal, format, dan isi dataset.
 
 5. Algoritma yang Digunakan
 
-Jelaskan algoritma yang dipakai dan alasan pemilihannya.
-
 ## 🧠 Algoritma
 - **Algoritma Apriori**
   - Digunakan untuk menemukan frequent itemsets.
@@ -48,8 +42,6 @@ Jelaskan algoritma yang dipakai dan alasan pemilihannya.
 - **Library:** mlxtend
 
 6. Instalasi & Cara Menjalankan
-
-Berikan petunjuk supaya orang lain bisa menjalankan kode.
 
 ## ⚙️ Instalasi & Menjalankan Program
 1. Clone repository ini:
@@ -70,8 +62,7 @@ Jalankan sel kode secara berurutan.
 ---
 
 ### **7. Output**
-Tampilkan contoh hasil (screenshot atau link).
-```md
+
 ## 📊 Output
 - `frequent_itemsets.csv` → Daftar itemset yang sering muncul.
 - `association_rules.csv` → Aturan asosiasi berdasarkan support, confidence, dan lift.
@@ -81,8 +72,6 @@ Contoh Visualisasi:
 ![Scatter Plot](rules_scatter.png)
 
 8. Struktur Folder
-
-Tunjukkan susunan file di repo.
 
 ## 📁 Struktur Folder
 .
